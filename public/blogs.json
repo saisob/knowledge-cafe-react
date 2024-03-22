@@ -1,0 +1,52 @@
+[
+    {
+      "id": "987654",
+      "cover": "https://i.ibb.co/x5WMKKJ/cover.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Victoria Ainsley",
+      "author_img": "https://i.ibb.co/hX1jxRr/author.jpg",
+      "posted_date": "2024-03-20",
+      "reading-time": "15 minutes",
+      "hashtags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/x5WMKKJ/cover.jpg",
+      "title": "The Silent Symphony",
+      "author": "Jonathan Blake",
+      "author_img": "https://i.ibb.co/hX1jxRr/author.jpg",
+      "posted_date": "2024-03-21",
+      "reading-time": "12 minutes",
+      "hashtags": ["mystery", "suspense", "detective"]
+    },
+    {
+      "id": "654321",
+      "cover": "https://i.ibb.co/x5WMKKJ/cover.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Amelia Gray",
+      "author_img": "https://i.ibb.co/hX1jxRr/author.jpg",
+      "posted_date": "2024-03-19",
+      "reading-time": "18 minutes",
+      "hashtags": ["romance", "drama", "relationships"]
+    },
+    {
+      "id": "234567",
+      "cover": "https://i.ibb.co/x5WMKKJ/cover.jpg",
+      "title": "Chronicles of the Cosmos",
+      "author": "Nathaniel Frost",
+      "author_img": "https://i.ibb.co/hX1jxRr/author.jpg",
+      "posted_date": "2024-03-18",
+      "reading-time": "20 minutes",
+      "hashtags": ["science-fiction", "space", "exploration"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/x5WMKKJ/cover.jpg",
+      "title": "The Art of Illusion",
+      "author": "Eleanor Black",
+      "author_img": "https://i.ibb.co/hX1jxRr/author.jpg",
+      "posted_date": "2024-03-22",
+      "reading-time": "14 minutes",
+      "hashtags": ["art", "mystery", "thriller"]
+    }
+  ]
